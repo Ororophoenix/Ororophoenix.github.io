@@ -1,53 +1,57 @@
 body {
   background: url("http://www.travelandleisure.com/sites/default/files/styles/1600x1000/public/201407-w-most-beautiful-libraries-in-the-world-klementinum-prague.jpg?itok=iEn3LTLq");
   background-size: cover;
-  background-repeat: no-repeat;
   font-family: helvetica;
 }
-html {
-    color: #505050 ;
-    font-family: Verdana, Garamond;
-    background-color: #FFCCCC;
-    border: 2px solid #505050; 
-}
-
 header{
-    text-align:center;
-    background-color: #c6e2ff;
-    width: 50%;
-    height: 100px;
-    margin: 0 auto;
+  text-align: center;
+  background-color: #feedcb;
+}
+.about{
+  display:block;
+  background-color: #feedcb;
+  height:7em;
+  width: 7em;
+  margin-left: 10%;
+}
+.recent {
+  display:block;
+  background-color: #feedcb;
+  height:7em;
+  width: 7em;
+  margin-left: 30%;
+}
+.blog{
+  display:block;
+  background-color: #feedcb;
+  height:7em;
+  width: 7em;
+  margin-left: 50%;
+}
+.contact{
+  display:block;
+  background-color: #feedcb;
+  height:7em;
+  width: 7em;
+  margin-left: 75%;
+}
+.current{
+  display:inline-block;
+  background-color: #feedcb;
+  height:15em;
+  width: 15em;
+  margin-left:300px;
+}
+.fun{
+  display:inline-block;
+  background-color: #feedcb;
+  height:15em;
+  width: 15em;
+  margin-left: 250px; 
 }
 footer {
-    width:100%;
-    height:2em;
-    background-color:#c6e2ff;
-    text-align:center;
-}
-ul li{
-    height: 50px;
-    width: 100px;
-    border: 1px solid black;
-    display: block;
-}
-ul li:first-child {
-    background-color: #c6e2ff;
-    margin-left:20px
-}
-ul li:nth-child(2) {
-    background-color: #c6e2ff;
-}
-ul li:nth-child(3) {
-    background-color: #c6e2ff;
-    top:5px;
-}
-ul li:nth-child(4) {
-    background-color: #c6e2ff; 
-    margin-left: 300px;
-}
-section {
-    display:block;
-    height:30px;
-    width: 30px;
-    padding: 10px;
+  background-color: #feedcb;
+  width: 100%;
+  height: em;
+  text-align:center
 }
