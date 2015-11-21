@@ -1,0 +1,51 @@
+body {
+  background: url("http://www.travelandleisure.com/sites/default/files/styles/1600x1000/public/201407-w-most-beautiful-libraries-in-the-world-klementinum-prague.jpg?itok=iEn3LTLq");
+  background-size: cover;
+  font-family: helvetica;
+}
+header{
+  text-align: center;
+  background-color: #feedcb;
+}
+.about{
+  display:block;
+  background-color: #feedcb;
+  height:7em;
+  width: 7em;
+  margin-left: 10%;
+}
+.recent {
+  display:block;
+  background-color: #feedcb;
+  height:7em;
+  width: 7em;
+  margin-left: 30%;
+}
+
+.contact{
+  display:block;
+  background-color: #feedcb;
+  height:7em;
+  width: 7em;
+  margin-left: 75%;
+}
+.socialmedia{
+  display:inline-block;
+  background-color: #feedcb;
+  height:15em;
+  width: 15em;
+  text-align: center;
+}
+.fun{
+  display:inline-block;
+  background-color: #feedcb;
+  height:15em;
+  width: 15em;
+  margin-left: 250px;
+}
+footer {
+  background-color: #feedcb;
+  width: 100%;
+  height: em;
+  text-align:center
+}
