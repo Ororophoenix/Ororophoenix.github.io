@@ -10,6 +10,7 @@ div {
 header {
   text-align: center;
   background-color: #feedcb;
+  padding: 5px
 }
 
 .project-list {
@@ -18,10 +19,11 @@ header {
   background-color: #feedcb;
   margin:auto;
 }
-.blog-content{
+.page-details{
   background-color:#feedcb;
-  margin: 100px;
-  padding: 40px;
+  margin: 50px;
+  padding: 20px;
+  text-align: center;
 }
 .side-panel {
   background-color: #feedcb;
