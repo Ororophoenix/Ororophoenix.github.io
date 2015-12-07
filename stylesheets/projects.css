@@ -10,9 +10,9 @@ div {
 header {
   text-align: center;
   background-color: #feedcb;
-
 }
-.blog-details {
+
+.project-list {
   text-align: center;
   width: 50%;
   background-color: #feedcb;
@@ -29,15 +29,9 @@ header {
   width:15em;
   margin:auto
 }
-.blog-entries {
-  background-color: #feedcb;
-  text-align: center;
-  width:15em;
-  margin:auto
-  }
 footer{
   background-color: #feedcb;
   width: 100%;
-  height: em;
-  text-align:center
+  height: 1 em;
+  text-align:center;
 }
