@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript vs. Ruby</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/default.css">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/JavaScript.css">
+</head>
+
+<body>
+<div>
+    <a href="http://Ororophoenix.github.io/index.html">Home</a>
+</div>
+
+<header>
+ <h1>An Account of a Girl Who Lost Her Mind</h1>
+ <h3><a href="http://Ororophoenix.github.io/index.html"></a>Monique Williamson</h3>
+ </header>
+ <section class = "blog-details">
+    <p>JavaScript Objects vs Ruby Classes</p>
+</section>
+<section class = "blog-content">
+<p>Hey Yall! So this week we are going to jump into some new material...JavaScript! DUN DUN DUNNNNNN (cue classic horror music).
+
+Ok maybe that was a bit dramatic Javascript isn't that bad. Just like anything else it takes some getting used to. The biggest problem is trying to keep the languages straight in your head.</p>
+
+<p>So today we are going to learn about the differences between Ruby's classes and Javascript's Objects. Well Im just gonna start this off by telling you the truth. THey aren't that different. Yea. I know. Anticlimactic. But that's just the truth. So lets go nitpicking for details.</p>
+
+<p></p>
+
+</section>
+
+<section class = "side-panel">
+    <h4>Recent Blog Posts</h4>
+    <ul>
+        <li><a href="#">2 Previous Blog Post</a></li>
+        <li><a href="#">Previous Blog Post</a></li>
+        <li><a href="#">Next Blog Post</a></li>
+        <li><a href="#">2 Ahead Blog Post</a></li>
+    </ul>
+</section>
+
+<footer>
+    <a href="file:///Users/monique/Documents/DBC/Ororophoenix.github.io/contact_me.html">Contact Info</a>
+</footer>
+</body>
+</html>
