@@ -18,32 +18,54 @@ header {
   margin:auto;
 }
 .css-topics {
-  margin-right: 0px;
   text-align: center;
   width: 50%;
   background-color: #6699ff;
-  margin:auto;
+  margin: auto;
+}
+.what-is-it h3{
+  background-color:white;
+  margin: 1px;
+  padding: 4px;
+  width: 100%;
 }
 .what-is-it {
-  text-align: center;
-  width: 50%;
+  margin: 10px;
+  padding: 40px;
   background-color: #6699ff;
-  margin:auto;
+}
+.syntax-rules h3{
+  background-color:white;
+  margin: 1px;
+  padding: 4px;
+  width: 100%;
 }
 .syntax-rules {
-  text-align: center;
-  width: 50%;
-  background-color: #6699ff;
-  margin:auto;
+  background-color:#6699ff;
+  margin: 10px;
+  padding: 40px;
+
+}
+.words h3{
+  background-color:white;
+  margin: 1px;
+  padding: 4px;
+  width: 100%;
 }
 .words{
   background-color:#6699ff;
-  margin: 100px;
+  margin: 10px;
   padding: 40px;
+}
+.organizing h3{
+  background-color:white;
+  margin: 1px;
+  padding: 4px;
+  width: 100%;
 }
 .organizing{
   background-color:#6699ff;
-  margin: 100px;
+  margin: 10px;
   padding: 40px;
 }
 
