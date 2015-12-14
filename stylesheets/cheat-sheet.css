@@ -19,11 +19,12 @@ header {
 }
 .css-topics {
   text-align: center;
-  width: 50%;
+  border:10px;
+  width: 300px;
   background-color: #6699ff;
-  margin: auto;
+
 }
-.what-is-it h3{
+h3{
   background-color:white;
   margin: 1px;
   padding: 4px;
@@ -33,40 +34,28 @@ header {
   margin: 10px;
   padding: 40px;
   background-color: #6699ff;
+  width: 50%;
 }
-.syntax-rules h3{
-  background-color:white;
-  margin: 1px;
-  padding: 4px;
-  width: 100%;
-}
+
 .syntax-rules {
   background-color:#6699ff;
   margin: 10px;
   padding: 40px;
+  width: 50%;
+}
 
-}
-.words h3{
-  background-color:white;
-  margin: 1px;
-  padding: 4px;
-  width: 100%;
-}
 .words{
   background-color:#6699ff;
   margin: 10px;
   padding: 40px;
+  width: 50%;
 }
-.organizing h3{
-  background-color:white;
-  margin: 1px;
-  padding: 4px;
-  width: 100%;
-}
+
 .organizing{
   background-color:#6699ff;
   margin: 10px;
   padding: 40px;
+  width: 50%;
 }
 
 footer{
