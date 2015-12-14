@@ -1,6 +1,55 @@
-.css-topics {
+body {
+  background: url("https://filmmakingunedited.files.wordpress.com/2013/09/paper-notepad-white-texture-by-aaron-pate.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: ;
+}
+div {
+  text-align: center
+}
+header {
+  text-align: center;
+  background-color: #6699ff;
+}
+.blog-details {
   text-align: center;
   width: 50%;
-  background-color: #feedcb;
+  background-color: #6699ff;
   margin:auto;
+}
+.css-topics {
+  margin-right: 0px;
+  text-align: center;
+  width: 50%;
+  background-color: #6699ff;
+  margin:auto;
+}
+.what-is-it {
+  text-align: center;
+  width: 50%;
+  background-color: #6699ff;
+  margin:auto;
+}
+.syntax-rules {
+  text-align: center;
+  width: 50%;
+  background-color: #6699ff;
+  margin:auto;
+}
+.words{
+  background-color:#6699ff;
+  margin: 100px;
+  padding: 40px;
+}
+.organizing{
+  background-color:#6699ff;
+  margin: 100px;
+  padding: 40px;
+}
+
+footer{
+  background-color: #6699ff;
+  width: 100%;
+  height: em;
+  text-align:center
 }
